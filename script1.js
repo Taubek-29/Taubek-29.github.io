@@ -54,7 +54,6 @@ document.addEventListener('DOMContentLoaded', function() {
             'theme-minimal',
             'theme-creative',
             'theme-tech',
-            'theme-elegant'
         );
         
         // Добавляем выбранную тему
